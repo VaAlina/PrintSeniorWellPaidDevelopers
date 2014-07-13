@@ -2,7 +2,7 @@ PrintSeniorWellPaidDevelopers 1.0
 =============================
 
 
-public class MainS {
+public class Main {
     DeveloperS[] list = {
 			new JuniorDeveloperS("Petr", 2300),
 			new SeniorDeveloperS("Dima", 1600),
